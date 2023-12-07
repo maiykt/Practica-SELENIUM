@@ -54,4 +54,4 @@ nunit3-console.exe NombreDelProyecto.dll
 
 ---
 
-Este README proporciona una visión general del proyecto, las historias de usuario implementadas, la estructura del proyecto y cómo ejecutar las pruebas. Puedes personalizarlo más según tus necesidades específicas y la evolución del proyecto.
+
